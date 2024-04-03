@@ -2,4 +2,4 @@
 
 My first readme file. 
 
-You can add some onfo if you like 😊.
+You can add some info if you like 😊.
